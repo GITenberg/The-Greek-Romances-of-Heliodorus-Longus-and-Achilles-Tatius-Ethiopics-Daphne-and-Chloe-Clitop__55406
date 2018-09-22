@@ -1,0 +1,41 @@
+_repo: The-Greek-Romances-of-Heliodorus-Longus-and-Achilles-Tatius-Ethiopics-Daphne-and-Chloe-Clitop__55406
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Smith, Rowland
+    gutenberg_agent_id: '48319'
+    url: http://www.gutenberg.org/2009/agents/48319
+creator:
+  authors:
+  - agent_name: Heliodorus, of Emesa
+    aliases:
+    - Emesa, Heliodorus of
+    - Heliodorus, Emesenus
+    - Héliodore d'Emèse
+    gutenberg_agent_id: '45087'
+    url: http://www.gutenberg.org/2009/agents/45087
+    wikipedia: https://en.wikipedia.org/wiki/Heliodorus_of_Emesa
+  - agent_name: Longus
+    aliases:
+    - Longos
+    - Λόγγος
+    gutenberg_agent_id: '38790'
+    url: http://www.gutenberg.org/2009/agents/38790
+  - agent_name: Tatius, Achilles
+    gutenberg_agent_id: '48318'
+    url: http://www.gutenberg.org/2009/agents/48318
+description: ''
+gutenberg_issued: '2017-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55406'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Greek Romances of Heliodorus, Longus and Achilles Tatius
+
+  Ethiopics, Daphne and Chloe, Clitopho and Leucippe'
+url: http://www.gutenberg.org/ebooks/55406
